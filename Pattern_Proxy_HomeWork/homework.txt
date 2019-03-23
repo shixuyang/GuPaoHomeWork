@@ -1,0 +1,1 @@
+method reference index只给了16bits，最多能调用65535个方法
